@@ -1,2 +1,1 @@
-# HTML-CSS-OpenBootcamp
-HTML-CSS
+# HTML-CSS
